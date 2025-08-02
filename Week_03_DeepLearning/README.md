@@ -3,7 +3,7 @@
 - 2일차 : RNN
 - 3일차 : AutoEncoder
 - 4일차 : Basic-skills(Early stopping)
-- 5일차 : Project-3
+- 5일차 : Project-2
 
 ## 작성자
 - yj-start-2025
